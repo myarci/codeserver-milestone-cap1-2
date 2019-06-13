@@ -24,4 +24,8 @@ public class A {
 
     }
 
+    public void y() {
+
+    }
+
 }
